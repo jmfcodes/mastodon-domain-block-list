@@ -24,7 +24,7 @@ css = '''
   }
 
 .domain-block-list td {
-  border: solid black 1px;
+  border: solid 1px;
   padding: 10px 5px;
   }
 
